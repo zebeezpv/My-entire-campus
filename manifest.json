@@ -1,0 +1,10 @@
+{
+  "name": "UCT Student Hub Phase 9",
+  "short_name": "Student Hub",
+  "description": "UCT timetable, compact calendar, daily agenda, reminders, study, budget and semester management app.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary"
+}
