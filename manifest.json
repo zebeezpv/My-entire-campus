@@ -1,0 +1,10 @@
+{
+  "name": "UCT Student Hub Phase 10",
+  "short_name": "Student Hub",
+  "description": "UCT student planner with compact calendar, dashboard back navigation, agenda, reminders, study, budget and semester management.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary"
+}
